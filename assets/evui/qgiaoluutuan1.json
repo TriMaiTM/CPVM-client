@@ -1,0 +1,4381 @@
+{
+	"part": [{
+		"0": "luyentap"
+	},
+	{
+		"1": "truong1"
+	},
+	{
+		"2": "truong2"
+	},
+	{
+		"3": "truong3"
+	},
+	{
+		"4": "truong4"
+	},
+	{
+		"5": "truong5"
+	},
+	{
+		"6": "truong6"
+	},
+	{
+		"7": "truong7"
+	},
+	{
+		"8": "truong8"
+	},
+	{
+		"9": "truong9"
+	},
+	{
+		"10": "truong10"
+	},
+	{
+		"11": "truong11"
+	},
+	{
+		"12": "truong12"
+	},
+	{
+		"13": "truong13"
+	},
+	{
+		"14": "tinh1"
+	},
+	{
+		"15": "tinh2"
+	},
+	{
+		"16": "toanquoc"
+	},
+	{
+		"20": "thithu"
+	}],
+	"class": [{
+		"1": "lop1"
+	},
+	{
+		"2": "lop2"
+	},
+	{
+		"3": "lop3"
+	},
+	{
+		"4": "lop4"
+	},
+	{
+		"5": "lop5"
+	},
+	{
+		"6": "lop6"
+	},
+	{
+		"7": "lop7"
+	},
+	{
+		"8": "lop8"
+	},
+	{
+		"9": "lop9"
+	},
+	{
+		"10": "lop10"
+	},
+	{
+		"11": "lop11"
+	},
+	{
+		"12": "lop12"
+	}],
+	"subject": [{
+		"1": "1_kienthucthuongthuc"
+	},
+	{
+		"2": "2_toanhoc"
+	},
+	{
+		"3": "3_nguvan"
+	},
+	{
+		"4": "4_tienganh"
+	},
+	{
+		"5": "5_hoahoc"
+	},
+	{
+		"6": "6_vatly"
+	},
+	{
+		"7": "7_sinhhoc"
+	}],
+	"rateSubject" : [{
+			"3" : [{
+				"1": "25"
+			},
+			{
+				"2": "25"
+			},
+			{
+				"3": "25"
+			},
+			{
+				"4": "25"
+			}]
+		},
+		{
+			"4" : [{
+				"1": "25"
+			},
+			{
+				"2": "25"
+			},
+			{
+				"3": "25"
+			},
+			{
+				"4": "25"
+			}]
+		},
+		{
+			"5" : [{
+				"1": "25"
+			},
+			{
+				"2": "25"
+			},
+			{
+				"3": "25"
+			},
+			{
+				"4": "25"
+			}]
+		},
+		{
+			"6" : [{
+				"1": "30"
+			},
+			{	
+				"2": "20"
+			},
+			{			
+				"3": "15"
+			},
+			{
+				"4": "15"
+			},
+			{
+				"5": "10"
+			},
+			{
+				"6": "0"
+			},
+			{
+				"7": "10"
+			}]
+		},
+		{
+			"7" : [{
+				"1": "30"
+			},
+			{	
+				"2": "20"
+			},
+			{			
+				"3": "15"
+			},
+			{
+				"4": "15"
+			},
+			{
+				"5": "10"
+			},
+			{
+				"6": "0"
+			},
+			{
+				"7": "10"
+			}]
+		},
+		{
+			"8": [{
+				"1": "30"
+			},
+			{	
+				"2": "15"
+			},
+			{			
+				"3": "10"
+			},
+			{
+				"4": "15"
+			},
+			{
+				"5": "10"
+			},
+			{
+				"6": "10"
+			},
+			{
+				"7": "10"
+			}]
+		},
+		{	
+			"9": [{
+				"1": "30"
+			},
+			{	
+				"2": "15"
+			},
+			{			
+				"3": "15"
+			},
+			{
+				"4": "10"
+			},
+			{
+				"5": "10"
+			},
+			{
+				"6": "10"
+			},
+			{
+				"7": "10"
+			}]
+	}],
+	"chapter": [{
+		"0": [{
+			"3": [{
+				"1": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_luyentap"
+				}]
+			}]
+		},
+		{
+			"4": [{
+				"1": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_luyentap"
+				}]
+			}]
+		},
+		{
+			"5": [{
+				"1": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_luyentap"
+				}]
+			}]
+		},
+		{
+			"6": [{
+				"1": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_luyentap"
+				}]
+			}]
+		},
+		{
+			"7": [{
+				"1": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_luyentap"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_luyentap"
+				}]
+			}]
+		},
+		{
+			"8": [{
+				"1": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_luyentap"
+				}]
+			},
+			{
+				"5": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_luyentap"
+				}]
+			}]
+		},
+		{
+			"9": [{
+				"1": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"4": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"5": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_luyentap"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_luyentap"
+				}]
+			}]
+		}]
+	},
+	{
+		"1": [{
+			"3": [{
+				"1": [{
+					"1": "chuong1_connguoivasuckhoe"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_hoctottoanlop3_tap1"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_mangnon"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_hello"
+				},
+				{
+					"2": "unit2_mynameis"
+				},
+				{
+					"3": "unit3_howareyou"
+				}]
+			}]
+		},
+		{
+			"4": [{
+				"1": [{
+					"1": "chuong1_"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_hoctottoanlop4_tap1"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_thuongnguoinhuthethuongthan"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_goodmorning_howareyou"
+				},
+				{
+					"2": "unit2_mynewfriends"
+				},
+				{
+					"3": "unit3_mybirthday"
+				}]
+			}]
+		},
+		{
+			"5": [{
+				"1": [{
+					"1": "chuong1_"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_hoctottoanlop5_tap1"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_VietNam-Toquocem"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_asummercamp"
+				},
+				{
+					"2": "unit2_myfriendshouse"
+				},
+				{
+					"3": "unit3_abirthdayparty"
+				}]
+			}]
+		},
+		{
+			"6": [{
+				"1": [{
+					"1": "chuong1_"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_ontapvabotucvesotunhien"
+				},
+				{
+					"2": "chuong3_diem_doanthang"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_thangthunhat"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_greetings"
+				},
+				{
+					"2": "unit2_atschool"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_cohoc"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_daicuongvegioithucvat_tebaothucvat"
+				}]
+			}]
+		},
+		{
+			"7": [{
+				"1": [{
+					"1": "chuong1_"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_sohuuti_sothuc"
+				},
+				{
+					"2": "chuong3_duongthangvuonggocvaduongthangsongsong"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_thangthunhat"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_backtoschool"
+				},
+				{
+					"2": "unit2_personalinformation"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_quanghoc"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_nganhdongvatnguyensinh"
+				},
+				{
+					"2": "chuong2_nganhruotkhoang"
+				}]
+			}]
+		},
+		{
+			"8": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_phepnhanvaphepchiacacdathuc"
+				},
+				{
+					"2": "chuong3_tugiac"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_thangthunhat"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_myfriends"
+				},
+				{
+					"2": "unit2_makingarrangements"
+				}]
+			},
+			{
+				"5": [{
+					"1": "chuong1_chat_nguyentu_phantu"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_cohoc"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_khaiquatvecothenguoi"
+				},
+				{
+					"2": "chuong2_vandong"
+				}]
+			}]
+		},
+		{
+			"9": [{
+				"1": [{
+					"1": "chuong1_"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_canbac2_canbac3"
+				},
+				{
+					"2": "chuong4_hethucluongtrongtamgiacvuong"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_thangthunhat"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_avisitfromapenpal"
+				},
+				{
+					"2": "unit2_clothing"
+				}]
+			},
+			{
+				"5": [{
+					"1": "chuong1_cacloaihopchatvoco"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_dienhoc"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_cacthinghiemcuamenden"
+				},
+				{
+					"2": "chuong2_nhiemsacthe"
+				}]
+			}]
+		}]
+	},
+	{
+		"2": []
+	},
+	{
+		"3": []
+	},
+	{
+		"4": []
+	},
+	{
+		"5": []
+	},
+	{
+		"6": []
+	},
+	{
+		"7": []
+	},
+	{
+		"8": []
+	},
+	{
+		"9": []
+	},
+	{
+		"10": []
+	},
+	{
+		"11": []
+	},
+	{
+		"12": []
+	},
+	{
+		"13": []
+	},
+	{
+		"14": []
+	},
+	{
+		"15": []
+	},
+	{
+		"16": []
+	},
+	{
+		"20": [{
+			"3": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_chuongdau"
+				}]
+			}]
+		},
+		{
+			"4": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_chuongdau"
+				}]
+			}]
+		},
+		{
+			"5": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_chuongdau"
+				}]
+			}]
+		},
+		{
+			"6": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_chuongdau"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_chuongdau"
+				}]
+			}]
+		},
+		{
+			"7": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_chuongdau"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_chuongdau"
+				}]
+			}]
+		},
+		{
+			"8": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_chuongdau"
+				}]
+			},
+			{
+				"5": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_chuongdau"
+				}]
+			}]
+		},
+		{
+			"9": [{
+				"1": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"2": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"3": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"4": [{
+					"1": "unit1_chuongdau"
+				}]
+			},
+			{
+				"5": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"6": [{
+					"1": "chuong1_chuongdau"
+				}]
+			},
+			{
+				"7": [{
+					"1": "chuong1_chuongdau"
+				}]
+			}]
+		}]
+	}],
+	"question": [{
+		"0": [{
+			"3": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 68,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 60,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_",
+						"total": 0,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"4": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 35,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 26,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_",
+						"total": 60,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"5": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 37,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"6": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 18,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 13,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 60,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"7": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 13,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 27,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 18,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_",
+						"total": 32,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 39,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"8": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 12,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 18,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 20,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_",
+						"total": 20,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"5": [{
+					"1": {
+						"subj": 5,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 0,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 9,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 20,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"9": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 13,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 14,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 26,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"5": [{
+					"1": {
+						"subj": 5,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 24,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 21,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 19,
+						"missings": []
+					}
+				}]
+			}]
+		}]
+	},
+	{
+		"1": [{
+			"3": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 115,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai10_luyentap_trang10",
+						"total": 10,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 1,
+						"less": 2,
+						"name": "bai11_ontapvehinhhoc",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 1,
+						"less": 3,
+						"name": "bai12_ontapvegiaitoan",
+						"total": 5,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 1,
+						"less": 4,
+						"name": "bai13_xemdongho_tiet1",
+						"total": 10,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 1,
+						"less": 5,
+						"name": "bai14_xemdongho_tiet2",
+						"total": 10,
+						"missings": []
+					},
+					"6": {
+						"subj": 2,
+						"chap": 1,
+						"less": 6,
+						"name": "bai15_luyentap_trang17",
+						"total": 8,
+						"missings": []
+					},
+					"7": {
+						"subj": 2,
+						"chap": 1,
+						"less": 7,
+						"name": "bai16_luyentapchung_trang18",
+						"total": 4,
+						"missings": []
+					},
+					"8": {
+						"subj": 2,
+						"chap": 1,
+						"less": 8,
+						"name": "bai17_tietkiemtra",
+						"total": 10,
+						"missings": []
+					},
+					"9": {
+						"subj": 2,
+						"chap": 1,
+						"less": 9,
+						"name": "bai18_bangnhan6",
+						"total": 11,
+						"missings": []
+					},
+					"10": {
+						"subj": 2,
+						"chap": 1,
+						"less": 10,
+						"name": "bai19_luyentapvebangnhan6",
+						"total": 10,
+						"missings": []
+					},
+					"11": {
+						"subj": 2,
+						"chap": 1,
+						"less": 11,
+						"name": "bai1_doc_viet_sosanhcacsoco3chuso",
+						"total": 0,
+						"missings": []
+					},
+					"12": {
+						"subj": 2,
+						"chap": 1,
+						"less": 12,
+						"name": "bai20_nhansocohaichusovoisocomotchuso_khongnho",
+						"total": 10,
+						"missings": [1]
+					},
+					"13": {
+						"subj": 2,
+						"chap": 1,
+						"less": 13,
+						"name": "bai2_cong_trucacsoco3chuso_khongnho",
+						"total": 0,
+						"missings": []
+					},
+					"14": {
+						"subj": 2,
+						"chap": 1,
+						"less": 14,
+						"name": "bai3_luyentap_trang4",
+						"total": 5,
+						"missings": []
+					},
+					"15": {
+						"subj": 2,
+						"chap": 1,
+						"less": 15,
+						"name": "bai4_congcacsoco3chuso_conho1lan",
+						"total": 7,
+						"missings": []
+					},
+					"16": {
+						"subj": 2,
+						"chap": 1,
+						"less": 16,
+						"name": "bai5_luyentap_trang6",
+						"total": 6,
+						"missings": []
+					},
+					"17": {
+						"subj": 2,
+						"chap": 1,
+						"less": 17,
+						"name": "bai6_trucacsocobachuso_conhomotlan",
+						"total": 4,
+						"missings": []
+					},
+					"18": {
+						"subj": 2,
+						"chap": 1,
+						"less": 18,
+						"name": "bai7_luyentaptrucacsocobachuso_conhomotlan",
+						"total": 10,
+						"missings": []
+					},
+					"19": {
+						"subj": 2,
+						"chap": 1,
+						"less": 19,
+						"name": "bai8_ontapcacbangnhan",
+						"total": 10,
+						"missings": []
+					},
+					"20": {
+						"subj": 2,
+						"chap": 1,
+						"less": 20,
+						"name": "bai9_ontapcacbangchia",
+						"total": 2,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 41,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_lookandsay",
+						"total": 10,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 1,
+						"less": 2,
+						"name": "lesson1_2_talk_letschant",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 1,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandnumber",
+						"total": 10,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 1,
+						"less": 4,
+						"name": "lesson2_2_readandmatch_letsplay",
+						"total": 10,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 1,
+						"less": 5,
+						"name": "lesson3_1_listenandrepeat_lookandsay",
+						"total": 10,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 1,
+						"less": 6,
+						"name": "lesson3_2_write_letssing",
+						"total": 10,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 2,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_lookandsay",
+						"total": 10,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 2,
+						"less": 2,
+						"name": "lesson1_2_talk_letschant",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 2,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandtick",
+						"total": 10,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 2,
+						"less": 4,
+						"name": "lesson2_2_readandmatch_letssing",
+						"total": 10,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 2,
+						"less": 5,
+						"name": "lesson3_1_listenandrepeat_lookandsay",
+						"total": 10,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 2,
+						"less": 6,
+						"name": "lesson3_2_write_letsplay",
+						"total": 10,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 3,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_lookandsay",
+						"total": 10,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 3,
+						"less": 2,
+						"name": "lesson1_2_talk_letschant",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 3,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandtick",
+						"total": 10,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 3,
+						"less": 4,
+						"name": "lesson2_2_readandmatch_letsplay",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"4": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 40,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai10_trieuvaloptrieu",
+						"total": 17,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 1,
+						"less": 2,
+						"name": "bai11_luyentapvetrieuvaloptrieu_tiet1",
+						"total": 0,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 1,
+						"less": 3,
+						"name": "bai12_luyentapvetrieuvaloptrieu_tiet2",
+						"total": 1,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 1,
+						"less": 4,
+						"name": "bai13_luyentap_tiet3",
+						"total": 2,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 1,
+						"less": 5,
+						"name": "bai14_daysotunhien",
+						"total": 5,
+						"missings": []
+					},
+					"6": {
+						"subj": 2,
+						"chap": 1,
+						"less": 6,
+						"name": "bai15_vietsotunhientronghethapphan",
+						"total": 2,
+						"missings": []
+					},
+					"7": {
+						"subj": 2,
+						"chap": 1,
+						"less": 7,
+						"name": "bai16_luyentapvevietsotunhienvasosanhhaisotunhien",
+						"total": 9,
+						"missings": []
+					},
+					"8": {
+						"subj": 2,
+						"chap": 1,
+						"less": 8,
+						"name": "bai17_yen_ta_tan",
+						"total": 7,
+						"missings": []
+					},
+					"9": {
+						"subj": 2,
+						"chap": 1,
+						"less": 9,
+						"name": "bai18_bangdonvidokhoiluong",
+						"total": 14,
+						"missings": []
+					},
+					"10": {
+						"subj": 2,
+						"chap": 1,
+						"less": 10,
+						"name": "bai19_giay_theki",
+						"total": 10,
+						"missings": []
+					},
+					"11": {
+						"subj": 2,
+						"chap": 1,
+						"less": 11,
+						"name": "bai1_ontapcacsoden100000_tiet1",
+						"total": 8,
+						"missings": []
+					},
+					"12": {
+						"subj": 2,
+						"chap": 1,
+						"less": 12,
+						"name": "bai2_ontapcacsoden100000_tiet2",
+						"total": 6,
+						"missings": []
+					},
+					"13": {
+						"subj": 2,
+						"chap": 1,
+						"less": 13,
+						"name": "bai3_ontapcacsoden100000_tiet3",
+						"total": 5,
+						"missings": []
+					},
+					"14": {
+						"subj": 2,
+						"chap": 1,
+						"less": 14,
+						"name": "bai4_bieuthuccochuamotchu",
+						"total": 5,
+						"missings": []
+					},
+					"15": {
+						"subj": 2,
+						"chap": 1,
+						"less": 15,
+						"name": "bai5_luyentap",
+						"total": 8,
+						"missings": []
+					},
+					"16": {
+						"subj": 2,
+						"chap": 1,
+						"less": 16,
+						"name": "bai6_cacsocosauchuso",
+						"total": 0,
+						"missings": []
+					},
+					"17": {
+						"subj": 2,
+						"chap": 1,
+						"less": 17,
+						"name": "bai7_luyentap",
+						"total": 0,
+						"missings": []
+					},
+					"18": {
+						"subj": 2,
+						"chap": 1,
+						"less": 18,
+						"name": "bai8_hangvalop",
+						"total": 9,
+						"missings": []
+					},
+					"19": {
+						"subj": 2,
+						"chap": 1,
+						"less": 19,
+						"name": "bai9_sosanhcacsoconhieuchuso",
+						"total": 8,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_demenbenhvuckeyeu",
+						"total": 25,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_lookandsay",
+						"total": 5,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 1,
+						"less": 2,
+						"name": "lesson1_2_talk_listenandtick",
+						"total": 4,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 1,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandnumber",
+						"total": 3,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 1,
+						"less": 4,
+						"name": "lesson2_2_readandtick_letsplay",
+						"total": 3,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 1,
+						"less": 5,
+						"name": "lesson3_1_listenandrepeat_lookandsay",
+						"total": 5,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 1,
+						"less": 6,
+						"name": "lesson3_2_write_letschant",
+						"total": 5,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 2,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_lookandsay",
+						"total": 5,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 2,
+						"less": 2,
+						"name": "lesson1_2_talk_listenandtick",
+						"total": 5,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 2,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandnumber",
+						"total": 6,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 2,
+						"less": 4,
+						"name": "lesson2_2_readandcircle_letsplay",
+						"total": 5,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 2,
+						"less": 5,
+						"name": "lesson3_1_listenandrepeat_lookandsay",
+						"total": 4,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 2,
+						"less": 6,
+						"name": "lesson3_2_write_letssing",
+						"total": 0,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 3,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_lookandsay",
+						"total": 5,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 3,
+						"less": 2,
+						"name": "lesson1_2_talk_listenandtick",
+						"total": 6,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 3,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandnumber",
+						"total": 5,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 3,
+						"less": 4,
+						"name": "lesson2_2_readandnumber_letssing",
+						"total": 5,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"5": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai10_honso_tiet2",
+						"total": 16,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 1,
+						"less": 2,
+						"name": "bai11_luyentapvehonso",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 1,
+						"less": 3,
+						"name": "bai12_luyentapchung_tiet1",
+						"total": 10,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 1,
+						"less": 4,
+						"name": "bai13_luyentapchung_tiet2",
+						"total": 10,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 1,
+						"less": 5,
+						"name": "bai14_luyentapchung_tiet3",
+						"total": 10,
+						"missings": []
+					},
+					"6": {
+						"subj": 2,
+						"chap": 1,
+						"less": 6,
+						"name": "bai15_ontapvegiaitoan",
+						"total": 10,
+						"missings": []
+					},
+					"7": {
+						"subj": 2,
+						"chap": 1,
+						"less": 7,
+						"name": "bai16_ontapvabosungvegiaitoan_tiet1",
+						"total": 10,
+						"missings": []
+					},
+					"8": {
+						"subj": 2,
+						"chap": 1,
+						"less": 8,
+						"name": "bai17_luyentap",
+						"total": 10,
+						"missings": []
+					},
+					"9": {
+						"subj": 2,
+						"chap": 1,
+						"less": 9,
+						"name": "bai18_ontapvabosungvegiaitoan_tiet2",
+						"total": 10,
+						"missings": []
+					},
+					"10": {
+						"subj": 2,
+						"chap": 1,
+						"less": 10,
+						"name": "bai19_luyentap",
+						"total": 10,
+						"missings": []
+					},
+					"11": {
+						"subj": 2,
+						"chap": 1,
+						"less": 11,
+						"name": "bai1_ontap_khainiemvephanso",
+						"total": 9,
+						"missings": []
+					},
+					"12": {
+						"subj": 2,
+						"chap": 1,
+						"less": 12,
+						"name": "bai20_luyentapchung",
+						"total": 10,
+						"missings": []
+					},
+					"13": {
+						"subj": 2,
+						"chap": 1,
+						"less": 13,
+						"name": "bai2_ontap_tinhchatcobancuaphanso",
+						"total": 10,
+						"missings": []
+					},
+					"14": {
+						"subj": 2,
+						"chap": 1,
+						"less": 14,
+						"name": "bai3_ontap_sosanhhaiphanso_tiet1",
+						"total": 12,
+						"missings": []
+					},
+					"15": {
+						"subj": 2,
+						"chap": 1,
+						"less": 15,
+						"name": "bai4_ontap_sosanhhaiphanso_tiet2",
+						"total": 10,
+						"missings": []
+					},
+					"16": {
+						"subj": 2,
+						"chap": 1,
+						"less": 16,
+						"name": "bai5_phansothapphan",
+						"total": 10,
+						"missings": []
+					},
+					"17": {
+						"subj": 2,
+						"chap": 1,
+						"less": 17,
+						"name": "bai6_luyentapvephansothapphan",
+						"total": 9,
+						"missings": []
+					},
+					"18": {
+						"subj": 2,
+						"chap": 1,
+						"less": 18,
+						"name": "bai7_ontap_phepcongvapheptruhaiphanso",
+						"total": 11,
+						"missings": []
+					},
+					"19": {
+						"subj": 2,
+						"chap": 1,
+						"less": 19,
+						"name": "bai8_ontap_phepnhanvaphepchiahaiphanso",
+						"total": 10,
+						"missings": []
+					},
+					"20": {
+						"subj": 2,
+						"chap": 1,
+						"less": 20,
+						"name": "bai9_honso_tiet1",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_thuguihocsinh",
+						"total": 50,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_point_askandanswer",
+						"total": 6,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 1,
+						"less": 2,
+						"name": "lesson1_2_listenandtick_talk",
+						"total": 6,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 1,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandreadtogether",
+						"total": 6,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 1,
+						"less": 4,
+						"name": "lesson2_2_groupandsayaloud_funtime",
+						"total": 6,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 1,
+						"less": 5,
+						"name": "lesson3_1_look_listenandrepeat_readanddothetasks",
+						"total": 6,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 1,
+						"less": 6,
+						"name": "lesson3_2_readandwriteane_mail_funtime",
+						"total": 6,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 2,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_point_askandanswer",
+						"total": 5,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 2,
+						"less": 2,
+						"name": "lesson1_2_listenandmatch_talk",
+						"total": 3,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 2,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandreadtogether",
+						"total": 5,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 2,
+						"less": 4,
+						"name": "lesson2_2_listen_completeandsayaloud_funtime",
+						"total": 5,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 2,
+						"less": 5,
+						"name": "lesson3_1_look_listenandrepeat_lookandticktherightpicture",
+						"total": 5,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 2,
+						"less": 6,
+						"name": "lesson3_2_writeaboutyourfriendshouse_funtime",
+						"total": 5,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 3,
+						"less": 1,
+						"name": "lesson1_1_look_listenandrepeat_point_askandanswer",
+						"total": 6,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 3,
+						"less": 2,
+						"name": "lesson1_2_listenandtick_talk",
+						"total": 6,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 3,
+						"less": 3,
+						"name": "lesson2_1_listenandrepeat_listenandreadtogether",
+						"total": 6,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 3,
+						"less": 4,
+						"name": "lesson2_2_groupandsayaloud_funtime",
+						"total": 5,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"6": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 125,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_taphop_phantucuataphop",
+						"total": 20,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_taphopcacsotunhien",
+						"total": 27,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_ghisotunhien",
+						"total": 29,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_sophantucuataphop_taphopcon",
+						"total": 20,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_luyentaptaphop",
+						"total": 15,
+						"missings": []
+					},
+					"6": {
+						"subj": 2,
+						"chap": 1,
+						"less": 6,
+						"name": "bai6_kiemtra15phutso1",
+						"total": 10,
+						"missings": []
+					},
+					"7": {
+						"subj": 2,
+						"chap": 1,
+						"less": 7,
+						"name": "bai7_phepcongvaphepnhan",
+						"total": 13,
+						"missings": []
+					},
+					"8": {
+						"subj": 2,
+						"chap": 1,
+						"less": 8,
+						"name": "bai8_pheptruvaphepchia",
+						"total": 4,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 2,
+						"chap": 2,
+						"less": 1,
+						"name": "bai55_diemvaduongthang",
+						"total": 10,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 2,
+						"less": 2,
+						"name": "bai56_badiemthanghang",
+						"total": 11,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 2,
+						"less": 3,
+						"name": "bai57_duongthangdiquahaidiem",
+						"total": 11,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_conrongchautien",
+						"total": 11,
+						"missings": []
+					},
+					"2": {
+						"subj": 3,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_banhchung_banhgiay",
+						"total": 11,
+						"missings": []
+					},
+					"3": {
+						"subj": 3,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_tuvacautaocuatutiengviet",
+						"total": 22,
+						"missings": []
+					},
+					"4": {
+						"subj": 3,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_giaotiep_vanbanvaphuongthucbieudat",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_a1_4_hello",
+						"total": 10,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 1,
+						"less": 2,
+						"name": "lesson2_a5_8_hello",
+						"total": 9,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 1,
+						"less": 3,
+						"name": "lesson3_b1_6_goodmorning",
+						"total": 2,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 1,
+						"less": 4,
+						"name": "lesson4_c1_2_howoldareyou",
+						"total": 6,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 1,
+						"less": 5,
+						"name": "lesson5_c3_6_howoldareyou",
+						"total": 6,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 2,
+						"less": 1,
+						"name": "lesson1_a1_4_comein",
+						"total": 3,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 2,
+						"less": 2,
+						"name": "lesson2_b1_2_wheredoyoulive",
+						"total": 3,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 2,
+						"less": 3,
+						"name": "lesson3_b3_6_wheredoyoulive",
+						"total": 8,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 2,
+						"less": 4,
+						"name": "lesson4_c1_myschool",
+						"total": 7,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 2,
+						"less": 5,
+						"name": "lesson5_c2_4_myschool",
+						"total": 8,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 2,
+						"less": 6,
+						"name": "lesson6_consolidation",
+						"total": 1,
+						"missings": []
+					},
+					"7": {
+						"subj": 4,
+						"chap": 2,
+						"less": 7,
+						"name": "lesson7_kiemtra15phutso1",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_dododai",
+						"total": 22,
+						"missings": []
+					},
+					"2": {
+						"subj": 6,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_dothetichchatlong",
+						"total": 23,
+						"missings": []
+					},
+					"3": {
+						"subj": 6,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_dothetichcuavatrankhongthamnuoc",
+						"total": 17,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_dacdiemcuacothesong_nhiemvucuasinhhoc",
+						"total": 11,
+						"missings": []
+					},
+					"2": {
+						"subj": 7,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_dacdiemchungcuathucvat",
+						"total": 11,
+						"missings": []
+					},
+					"3": {
+						"subj": 7,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_cophaitatcathucvatdeucohoa",
+						"total": 13,
+						"missings": []
+					},
+					"4": {
+						"subj": 7,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_quansattebaothucvat",
+						"total": 20,
+						"missings": []
+					},
+					"5": {
+						"subj": 7,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_cautaotebaothucvat",
+						"total": 16,
+						"missings": []
+					},
+					"6": {
+						"subj": 7,
+						"chap": 1,
+						"less": 6,
+						"name": "bai6_sulonlenvaphanchiacuatebao",
+						"total": 12,
+						"missings": []
+					},
+					"7": {
+						"subj": 7,
+						"chap": 1,
+						"less": 7,
+						"name": "bai7_kiemtra15phutso1",
+						"total": 10,
+						"missings": []
+					},
+					"8": {
+						"subj": 7,
+						"chap": 1,
+						"less": 8,
+						"name": "bai8_ontapchuongi",
+						"total": 12,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"7": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 83,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_taphopqcacsohuuti",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_cong_trusohuuti",
+						"total": 29,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_nhan_chiasohuuti",
+						"total": 19,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_giatrituyetdoicuasohuuti_cong_tru_nhan_chiasothapphan",
+						"total": 30,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_luyentap",
+						"total": 10,
+						"missings": []
+					},
+					"6": {
+						"subj": 2,
+						"chap": 1,
+						"less": 6,
+						"name": "bai6_kiemtra15phutso1",
+						"total": 10,
+						"missings": []
+					},
+					"7": {
+						"subj": 2,
+						"chap": 1,
+						"less": 7,
+						"name": "bai7_luythuacuasohuuti_tiet1",
+						"total": 18,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 2,
+						"chap": 2,
+						"less": 1,
+						"name": "bai31_haigocdoidinh",
+						"total": 30,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 2,
+						"less": 2,
+						"name": "bai32_haiduongthangvuonggoc",
+						"total": 29,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 2,
+						"less": 3,
+						"name": "bai33_cacgoctaoboimotduongthangcathaiduongthang",
+						"total": 8,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 2,
+						"less": 4,
+						"name": "bai34_luyentap",
+						"total": 16,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 2,
+						"less": 5,
+						"name": "bai35_kiemtra15phutso3",
+						"total": 4,
+						"missings": []
+					},
+					"6": {
+						"subj": 2,
+						"chap": 2,
+						"less": 6,
+						"name": "bai36_haiduongthangsongsong",
+						"total": 16,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_congtruongmora",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 3,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_metoi",
+						"total": 15,
+						"missings": []
+					},
+					"3": {
+						"subj": 3,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_tughep",
+						"total": 30,
+						"missings": []
+					},
+					"4": {
+						"subj": 3,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_lienkettrongvanban",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_a1_2_friends",
+						"total": 4,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 1,
+						"less": 2,
+						"name": "lesson2_a3_5_friends",
+						"total": 3,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 1,
+						"less": 3,
+						"name": "lesson3_b1_2_namesandaddresses",
+						"total": 3,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 1,
+						"less": 4,
+						"name": "lesson4_b3_4_nameandaddresses",
+						"total": 4,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 1,
+						"less": 5,
+						"name": "lesson5_b5_6_nameandaddresses",
+						"total": 2,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 1,
+						"less": 6,
+						"name": "lesson6_consolidation",
+						"total": 3,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 2,
+						"less": 1,
+						"name": "lesson1_a1_3_telephonenumbers",
+						"total": 5,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 2,
+						"less": 2,
+						"name": "lesson2_a4_5_telephonenumbers",
+						"total": 4,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 2,
+						"less": 3,
+						"name": "lesson3_b1_3_mybirthday",
+						"total": 2,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 2,
+						"less": 4,
+						"name": "lesson4_b4_5_mybirthday",
+						"total": 6,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 2,
+						"less": 5,
+						"name": "lesson5_b6_8_mybirthday",
+						"total": 2,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 2,
+						"less": 6,
+						"name": "lesson6_consolidation",
+						"total": 1,
+						"missings": []
+					},
+					"7": {
+						"subj": 4,
+						"chap": 2,
+						"less": 7,
+						"name": "lesson7_kiemtra15phutso1",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_nhanbietanhsang_nguonsangvavatsang",
+						"total": 19,
+						"missings": []
+					},
+					"2": {
+						"subj": 6,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_sutruyenanhsang",
+						"total": 17,
+						"missings": []
+					},
+					"3": {
+						"subj": 6,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_ungdungdinhluattruyenthangcuaanhsang",
+						"total": 21,
+						"missings": []
+					},
+					"4": {
+						"subj": 6,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_dinhluatphanxaanhsang",
+						"total": 15,
+						"missings": []
+					},
+					"5": {
+						"subj": 6,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_kiemtra15phutso1",
+						"total": 18,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_thegioidongvatdadangphongphu",
+						"total": 10,
+						"missings": []
+					},
+					"2": {
+						"subj": 7,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_phanbietdongvatvoithucvat_dacdiemchungcuadongvat",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 7,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_trungroi",
+						"total": 15,
+						"missings": []
+					},
+					"4": {
+						"subj": 7,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_trungbienhinhvatrunggiay",
+						"total": 15,
+						"missings": []
+					},
+					"5": {
+						"subj": 7,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_trungkietlivatrungsotret",
+						"total": 15,
+						"missings": []
+					},
+					"6": {
+						"subj": 7,
+						"chap": 1,
+						"less": 6,
+						"name": "bai6_dacdiemchungvavaitrothuctiencuadongvatnguyensinh",
+						"total": 15,
+						"missings": []
+					},
+					"7": {
+						"subj": 7,
+						"chap": 1,
+						"less": 7,
+						"name": "bai7_kiemtra15phutso1",
+						"total": 10,
+						"missings": []
+					},
+					"8": {
+						"subj": 7,
+						"chap": 1,
+						"less": 8,
+						"name": "bai8_ontapchuong",
+						"total": 15,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 7,
+						"chap": 2,
+						"less": 1,
+						"name": "bai9_thuytuc",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"8": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 81,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_nhandonthucvoidathuc",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_nhandathucvoidathuc",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_nhunghangdangthucdangnho_tiet1",
+						"total": 22,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 2,
+						"chap": 2,
+						"less": 1,
+						"name": "bai40_tugiac",
+						"total": 14,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 2,
+						"less": 2,
+						"name": "bai41_hinhthang",
+						"total": 9,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 2,
+						"less": 3,
+						"name": "bai42_hinhthangcan",
+						"total": 10,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 2,
+						"less": 4,
+						"name": "bai43_luyentapvehinhthang",
+						"total": 0,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 2,
+						"less": 5,
+						"name": "bai44_duongtrungbinh",
+						"total": 14,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_toidihoc_tiet1",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 3,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_toidihoc_tiet2",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 3,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_capdokhaiquatcuanghiatungu",
+						"total": 10,
+						"missings": []
+					},
+					"4": {
+						"subj": 3,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_tinhthongnhatvechudecuavanban",
+						"total": 6,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_gettingstarted_listenandread",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 1,
+						"less": 2,
+						"name": "lesson2_speak",
+						"total": 15,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 1,
+						"less": 3,
+						"name": "lesson3_listen",
+						"total": 15,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 1,
+						"less": 4,
+						"name": "lesson4_read",
+						"total": 15,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 1,
+						"less": 5,
+						"name": "lesson5_write",
+						"total": 15,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 1,
+						"less": 6,
+						"name": "lesson6_languagefocus",
+						"total": 15,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 2,
+						"less": 1,
+						"name": "lesson1_gettingstarted_listenandread",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 2,
+						"less": 2,
+						"name": "lesson2_speak",
+						"total": 15,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 2,
+						"less": 3,
+						"name": "lesson3_listen",
+						"total": 15,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 2,
+						"less": 4,
+						"name": "lesson4_read",
+						"total": 15,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 2,
+						"less": 5,
+						"name": "lesson5_write",
+						"total": 15,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 2,
+						"less": 6,
+						"name": "lesson6_languagefocus",
+						"total": 15,
+						"missings": []
+					},
+					"7": {
+						"subj": 4,
+						"chap": 2,
+						"less": 7,
+						"name": "lesson7_kiemtra15phutso1",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"5": [{
+					"1": {
+						"subj": 5,
+						"chap": 1,
+						"less": 1,
+						"name": "bai01_chat",
+						"total": 28,
+						"missings": []
+					},
+					"2": {
+						"subj": 5,
+						"chap": 1,
+						"less": 2,
+						"name": "bai02_nguyentu",
+						"total": 26,
+						"missings": []
+					},
+					"3": {
+						"subj": 5,
+						"chap": 1,
+						"less": 3,
+						"name": "bai03_nguyentohoahoc",
+						"total": 28,
+						"missings": []
+					},
+					"4": {
+						"subj": 5,
+						"chap": 1,
+						"less": 4,
+						"name": "bai04_donchat_hopchat_phantu",
+						"total": 30,
+						"missings": []
+					},
+					"5": {
+						"subj": 5,
+						"chap": 1,
+						"less": 5,
+						"name": "bai1_chat",
+						"total": 28,
+						"missings": []
+					},
+					"6": {
+						"subj": 5,
+						"chap": 1,
+						"less": 6,
+						"name": "bai2_nguyentu",
+						"total": 26,
+						"missings": []
+					},
+					"7": {
+						"subj": 5,
+						"chap": 1,
+						"less": 7,
+						"name": "bai3_nguyentohoahoc",
+						"total": 28,
+						"missings": []
+					},
+					"8": {
+						"subj": 5,
+						"chap": 1,
+						"less": 8,
+						"name": "bai4_donchat_hopchat_phantu",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_chuyendongcohoc",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 6,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_vantoc",
+						"total": 30,
+						"missings": []
+					},
+					"3": {
+						"subj": 6,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_chuyendongdeu_chuyendongkhongdeu",
+						"total": 30,
+						"missings": []
+					},
+					"4": {
+						"subj": 6,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_kiemtra15phutso1",
+						"total": 21,
+						"missings": []
+					},
+					"5": {
+						"subj": 6,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_baitoanchuyendongcuanhieuvat_nangcao",
+						"total": 17,
+						"missings": []
+					},
+					"6": {
+						"subj": 6,
+						"chap": 1,
+						"less": 6,
+						"name": "bai6_bieudienluc",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_cautaocothenguoi",
+						"total": 12,
+						"missings": []
+					},
+					"2": {
+						"subj": 7,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_tebao",
+						"total": 23,
+						"missings": []
+					},
+					"3": {
+						"subj": 7,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_mo",
+						"total": 23,
+						"missings": []
+					},
+					"4": {
+						"subj": 7,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_thuchanh_quansattebaovamo",
+						"total": 0,
+						"missings": []
+					},
+					"5": {
+						"subj": 7,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_phanxa",
+						"total": 13,
+						"missings": []
+					},
+					"6": {
+						"subj": 7,
+						"chap": 1,
+						"less": 6,
+						"name": "bai6_ontapchuong",
+						"total": 25,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 7,
+						"chap": 2,
+						"less": 1,
+						"name": "bai7_boxuong",
+						"total": 19,
+						"missings": []
+					},
+					"2": {
+						"subj": 7,
+						"chap": 2,
+						"less": 2,
+						"name": "bai8_cautaovatinhchatcuaxuong",
+						"total": 19,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"9": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_",
+						"total": 72,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_canbachai",
+						"total": 16,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_canthucbachai",
+						"total": 16,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_lienhephepnhanvaphepkhaiphuong",
+						"total": 13,
+						"missings": []
+					},
+					"4": {
+						"subj": 2,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_lienhephepchiavaphepkhaiphuong",
+						"total": 12,
+						"missings": []
+					},
+					"5": {
+						"subj": 2,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_luyentap",
+						"total": 15,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 2,
+						"chap": 2,
+						"less": 1,
+						"name": "bai41_motsohethucvecanhvaduongcaotrongtamgiacvuong",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 2,
+						"chap": 2,
+						"less": 2,
+						"name": "bai42_luyentaphethucvecanhvaduongcaotrongtamgiacvuong",
+						"total": 10,
+						"missings": []
+					},
+					"3": {
+						"subj": 2,
+						"chap": 2,
+						"less": 3,
+						"name": "bai43_tisoluonggiaccuagocnhon",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_phongcachhochiminh",
+						"total": 14,
+						"missings": []
+					},
+					"2": {
+						"subj": 3,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_cacphuongchamhoithoai_tiet1",
+						"total": 13,
+						"missings": []
+					},
+					"3": {
+						"subj": 3,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_sudungmotsobienphapnghethuattrongvanbanthuyetminh",
+						"total": 0,
+						"missings": []
+					},
+					"4": {
+						"subj": 3,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_luyentapsudungmotsobienphapnghethuattrongvanbanthuyetminh",
+						"total": 0,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_gettingstarted_listenandread",
+						"total": 15,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 1,
+						"less": 2,
+						"name": "lesson2_speak",
+						"total": 15,
+						"missings": []
+					},
+					"3": {
+						"subj": 4,
+						"chap": 1,
+						"less": 3,
+						"name": "lesson3_listen",
+						"total": 15,
+						"missings": []
+					},
+					"4": {
+						"subj": 4,
+						"chap": 1,
+						"less": 4,
+						"name": "lesson4_read",
+						"total": 15,
+						"missings": []
+					},
+					"5": {
+						"subj": 4,
+						"chap": 1,
+						"less": 5,
+						"name": "lesson5_write",
+						"total": 15,
+						"missings": []
+					},
+					"6": {
+						"subj": 4,
+						"chap": 1,
+						"less": 6,
+						"name": "lesson6_languagefocus",
+						"total": 15,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 4,
+						"chap": 2,
+						"less": 1,
+						"name": "lesson1_gettingstarted_listenandread",
+						"total": 7,
+						"missings": []
+					},
+					"2": {
+						"subj": 4,
+						"chap": 2,
+						"less": 2,
+						"name": "lesson2_speak",
+						"total": 9,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"5": [{
+					"1": {
+						"subj": 5,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_bai2_ontapkienthuchoa8",
+						"total": 30,
+						"missings": []
+					},
+					"2": {
+						"subj": 5,
+						"chap": 1,
+						"less": 2,
+						"name": "bai3_tinhchatcuaoxit",
+						"total": 30,
+						"missings": []
+					},
+					"3": {
+						"subj": 5,
+						"chap": 1,
+						"less": 3,
+						"name": "bai4_motsooxitquantrong",
+						"total": 30,
+						"missings": []
+					},
+					"4": {
+						"subj": 5,
+						"chap": 1,
+						"less": 4,
+						"name": "bai5_luyentaptinhchatcuaoxit",
+						"total": 30,
+						"missings": []
+					},
+					"5": {
+						"subj": 5,
+						"chap": 1,
+						"less": 5,
+						"name": "bai6_tinhchatcuaaxit",
+						"total": 23,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_suphuthuoccuacuongdodongdienvaohieudienthegiuahaidauvatdan",
+						"total": 30,
+						"missings": []
+					},
+					"2": {
+						"subj": 6,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_dientrocuadaydan_dinhluatom",
+						"total": 30,
+						"missings": []
+					},
+					"3": {
+						"subj": 6,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_doanmachnoitiep",
+						"total": 30,
+						"missings": []
+					},
+					"4": {
+						"subj": 6,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_doanmachsongsong",
+						"total": 30,
+						"missings": []
+					},
+					"5": {
+						"subj": 6,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_kiemtra15phutso1",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_mendenvaditruyenhoc",
+						"total": 18,
+						"missings": []
+					},
+					"2": {
+						"subj": 7,
+						"chap": 1,
+						"less": 2,
+						"name": "bai2_laimotcaptinhtrang_tiet1",
+						"total": 18,
+						"missings": []
+					},
+					"3": {
+						"subj": 7,
+						"chap": 1,
+						"less": 3,
+						"name": "bai3_laimotcaptinhtrang_tiet2",
+						"total": 18,
+						"missings": []
+					},
+					"4": {
+						"subj": 7,
+						"chap": 1,
+						"less": 4,
+						"name": "bai4_baitapvelaimotcaptinhtrang",
+						"total": 10,
+						"missings": []
+					},
+					"5": {
+						"subj": 7,
+						"chap": 1,
+						"less": 5,
+						"name": "bai5_laihaicaptinhtrang_phan1",
+						"total": 13,
+						"missings": []
+					},
+					"6": {
+						"subj": 7,
+						"chap": 1,
+						"less": 6,
+						"name": "bai6_laihaicaptinhtrang_phan2",
+						"total": 16,
+						"missings": []
+					},
+					"7": {
+						"subj": 7,
+						"chap": 1,
+						"less": 7,
+						"name": "bai7_baitapvelaihaicaptinhtrang",
+						"total": 18,
+						"missings": []
+					},
+					"8": {
+						"subj": 7,
+						"chap": 1,
+						"less": 8,
+						"name": "bai8_ontapchuong",
+						"total": 24,
+						"missings": []
+					}
+				},
+				{
+					"1": {
+						"subj": 7,
+						"chap": 2,
+						"less": 1,
+						"name": "bai9_nhiemsacthe",
+						"total": 17,
+						"missings": []
+					}
+				}]
+			}]
+		}]
+	},
+	{
+		"2": []
+	},
+	{
+		"3": []
+	},
+	{
+		"4": []
+	},
+	{
+		"5": []
+	},
+	{
+		"6": []
+	},
+	{
+		"7": []
+	},
+	{
+		"8": []
+	},
+	{
+		"9": []
+	},
+	{
+		"10": []
+	},
+	{
+		"11": []
+	},
+	{
+		"12": []
+	},
+	{
+		"13": []
+	},
+	{
+		"14": []
+	},
+	{
+		"15": []
+	},
+	{
+		"16": []
+	},
+	{
+		"20": [{
+			"3": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 19,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 60,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"4": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 20,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 14,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 11,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_baimodau",
+						"total": 19,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"5": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"6": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_baimodau",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 0,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 0,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"7": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 11,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 30,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"8": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 21,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"5": [{
+					"1": {
+						"subj": 5,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 0,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 10,
+						"missings": []
+					}
+				}]
+			}]
+		},
+		{
+			"9": [{
+				"1": [{
+					"1": {
+						"subj": 1,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 16,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"2": [{
+					"1": {
+						"subj": 2,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 7,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"3": [{
+					"1": {
+						"subj": 3,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"4": [{
+					"1": {
+						"subj": 4,
+						"chap": 1,
+						"less": 1,
+						"name": "lesson1_baimodau",
+						"total": 15,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"5": [{
+					"1": {
+						"subj": 5,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 20,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"6": [{
+					"1": {
+						"subj": 6,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 5,
+						"missings": []
+					}
+				}]
+			},
+			{
+				"7": [{
+					"1": {
+						"subj": 7,
+						"chap": 1,
+						"less": 1,
+						"name": "bai1_baimodau",
+						"total": 25,
+						"missings": []
+					}
+				}]
+			}]
+		}]
+	}]
+}

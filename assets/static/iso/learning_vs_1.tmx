@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="39" height="39" tilewidth="44" tileheight="22" nextobjectid="655">
+ <tileset firstgid="1" name="dttt_left" tilewidth="869" tileheight="1066" tilecount="1" columns="1">
+  <image source="dttt_left.png" width="869" height="1066"/>
+ </tileset>
+ <tileset firstgid="2" name="dttt_right" tilewidth="869" tileheight="1066" tilecount="1" columns="1">
+  <image source="dttt_right.png" width="869" height="1066"/>
+ </tileset>
+ <tileset firstgid="3" name="300001" tilewidth="44" tileheight="22" tilecount="1" columns="1">
+  <image source="300001.png" width="44" height="22"/>
+ </tileset>
+ <objectgroup name="BackgroundLayer">
+  <object id="1" gid="1" x="739.364" y="1175.7">
+   <properties>
+    <property name="file" value="dttt_left.png"/>
+   </properties>
+  </object>
+  <object id="2" gid="2" x="1173.87" y="741.198">
+   <properties>
+    <property name="file" value="dttt_right.png"/>
+   </properties>
+  </object>
+  <object id="4" gid="2" x="1173.87" y="741.198">
+   <properties>
+    <property name="file" value="dttt_right.png"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer name="RoadLayer" width="39" height="39">
+  <properties>
+   <property name="directionX" value="11"/>
+   <property name="directionY" value="31"/>
+   <property name="startX" value="10"/>
+   <property name="startY" value="30"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmFEKwCAMQ4Xd/87DvzGYzjZJgxjYp+mbrVZt7QitK/GxuSrHs33RfK5+znlg1rBr/T79o2uazZaJW8X2J3Yl2yx+NVvXF8MqG6NfodhW/TPjkDmdxVmdbwUbY04RXi694e1TXcsjD1UtR8a7nL3Ye1TUT90X0ecYRi9h3q0cevlIhy8nZ76d2JT/Eoml4sv0I/abknOO1Gthhzt89f6hOkNFpX6HResGJoEBkw==
+  </data>
+ </layer>
+ <objectgroup name="MapLayer">
+  <object id="5" name="0" x="223.5" y="663.167" width="22" height="22" visible="0">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="10"/>
+    <property name="TileRefY" value="30"/>
+    <property name="id" value="0"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="6" x="288.213" y="687.955" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="13"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="7" x="333.531" y="696.364" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="16"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="2"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="8" x="376.94" y="705.773" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="17"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="3"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="9" x="419.849" y="706.076" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="19"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="4"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="10" x="463.349" y="708.758" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="21"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="5"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="11" x="508.909" y="713.742" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="23"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="6"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="12" x="546.561" y="721.667" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="25"/>
+    <property name="TileRefY" value="33"/>
+    <property name="id" value="7"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="13" x="586.743" y="741.364" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="27"/>
+    <property name="TileRefY" value="34"/>
+    <property name="id" value="8"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="14" x="620.425" y="766.167" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="28"/>
+    <property name="TileRefY" value="35"/>
+    <property name="id" value="9"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="15" x="655.925" y="795.273" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="30"/>
+    <property name="TileRefY" value="37"/>
+    <property name="id" value="10"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="16" x="711.091" y="808.167" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="32"/>
+    <property name="TileRefY" value="37"/>
+    <property name="id" value="11"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="17" x="760.258" y="800.94" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="34"/>
+    <property name="TileRefY" value="37"/>
+    <property name="id" value="12"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="18" x="795.652" y="772.878" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="36"/>
+    <property name="TileRefY" value="35"/>
+    <property name="id" value="13"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="19" x="815.182" y="725.833" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="37"/>
+    <property name="TileRefY" value="33"/>
+    <property name="id" value="14"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="20" x="820.228" y="678.727" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="37"/>
+    <property name="TileRefY" value="31"/>
+    <property name="id" value="15"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="21" x="814.137" y="627.242" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="37"/>
+    <property name="TileRefY" value="29"/>
+    <property name="id" value="16"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="22" x="798.606" y="577.924" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="36"/>
+    <property name="TileRefY" value="26"/>
+    <property name="id" value="17"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="23" x="763.683" y="528.788" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="34"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="18"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="24" x="714.046" y="512.788" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="32"/>
+    <property name="TileRefY" value="23"/>
+    <property name="id" value="19"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="25" x="669.697" y="516.288" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="30"/>
+    <property name="TileRefY" value="23"/>
+    <property name="id" value="20"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="26" x="622.03" y="500.015" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="28"/>
+    <property name="TileRefY" value="22"/>
+    <property name="id" value="21"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="27" x="587.803" y="441.697" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="26"/>
+    <property name="TileRefY" value="20"/>
+    <property name="id" value="22"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="28" x="592.258" y="389.606" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="27"/>
+    <property name="TileRefY" value="17"/>
+    <property name="id" value="23"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="29" x="616.879" y="347.834" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="28"/>
+    <property name="TileRefY" value="16"/>
+    <property name="id" value="24"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="30" x="659.925" y="337.394" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="30"/>
+    <property name="TileRefY" value="15"/>
+    <property name="id" value="25"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="31" x="710.758" y="339.53" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="32"/>
+    <property name="TileRefY" value="15"/>
+    <property name="id" value="26"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="32" x="759.883" y="321.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="35"/>
+    <property name="TileRefY" value="14"/>
+    <property name="id" value="27"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="33" x="781.549" y="273.541" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="36"/>
+    <property name="TileRefY" value="12"/>
+    <property name="id" value="28"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="34" x="741.716" y="213.375" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="34"/>
+    <property name="TileRefY" value="10"/>
+    <property name="id" value="29"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="35" x="686.049" y="187.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="31"/>
+    <property name="TileRefY" value="8"/>
+    <property name="id" value="30"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="36" x="631.549" y="181.541" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="29"/>
+    <property name="TileRefY" value="8"/>
+    <property name="id" value="31"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="37" x="575.716" y="155.375" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="26"/>
+    <property name="TileRefY" value="7"/>
+    <property name="id" value="32"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="38" x="534.299" y="106.791" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="24"/>
+    <property name="TileRefY" value="5"/>
+    <property name="id" value="33"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="39" x="486.716" y="73.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="22"/>
+    <property name="TileRefY" value="3"/>
+    <property name="id" value="34"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="40" x="441.216" y="62.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="20"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="35"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="41" x="393.216" y="47.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="18"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="36"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="42" x="343.216" y="45.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="16"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="37"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="43" x="297.716" y="40.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="14"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="38"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="44" x="252.716" y="38.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="12"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="39"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="45" x="208.466" y="39.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="10"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="40"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="46" x="161.466" y="52.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="7"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="41"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="47" x="122.466" y="73.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="6"/>
+    <property name="TileRefY" value="3"/>
+    <property name="id" value="42"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="48" x="96.216" y="115.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="4"/>
+    <property name="TileRefY" value="5"/>
+    <property name="id" value="43"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="49" x="77.466" y="156.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="7"/>
+    <property name="id" value="44"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="50" x="69.466" y="210.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="9"/>
+    <property name="id" value="45"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="51" x="65.466" y="256.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="12"/>
+    <property name="id" value="46"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="52" x="64.466" y="308.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="14"/>
+    <property name="id" value="47"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="53" x="74.966" y="357.458" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="16"/>
+    <property name="id" value="48"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="54" x="101.216" y="400.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="4"/>
+    <property name="TileRefY" value="18"/>
+    <property name="id" value="49"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="55" x="130.716" y="435.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="6"/>
+    <property name="TileRefY" value="20"/>
+    <property name="id" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="56" x="168.716" y="467.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="8"/>
+    <property name="TileRefY" value="22"/>
+    <property name="id" value="51"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="57" x="206.716" y="498.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="9"/>
+    <property name="TileRefY" value="23"/>
+    <property name="id" value="52"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="58" x="251.216" y="514.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="11"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="53"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="59" x="295.966" y="526.458" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="13"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="54"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="60" x="343" y="530" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="15"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="55"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="455" x="399" y="523" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="18"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="56"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="456" x="437.5" y="496.5" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="20"/>
+    <property name="TileRefY" value="22"/>
+    <property name="id" value="57"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="457" x="465" y="467" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="21"/>
+    <property name="TileRefY" value="21"/>
+    <property name="id" value="58"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="458" x="483.25" y="427.75" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="22"/>
+    <property name="TileRefY" value="19"/>
+    <property name="id" value="59"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="459" x="484.25" y="374.75" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="22"/>
+    <property name="TileRefY" value="17"/>
+    <property name="id" value="60"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="460" x="465" y="312" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="21"/>
+    <property name="TileRefY" value="14"/>
+    <property name="id" value="61"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="461" x="408.5" y="280.5" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="19"/>
+    <property name="TileRefY" value="13"/>
+    <property name="id" value="62"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="462" x="325.25" y="286.75" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="15"/>
+    <property name="TileRefY" value="13"/>
+    <property name="id" value="63"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="StatusLayer">
+  <object id="591" name="0" x="223.5" y="663.167" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="10"/>
+    <property name="TileRefY" value="30"/>
+    <property name="id" value="0"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="592" x="288.213" y="687.955" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="13"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="593" x="333.531" y="696.364" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="16"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="2"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="594" x="376.94" y="705.773" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="17"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="3"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="595" x="419.849" y="706.076" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="19"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="4"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="596" x="463.349" y="708.758" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="21"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="5"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="597" x="508.909" y="713.742" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="23"/>
+    <property name="TileRefY" value="32"/>
+    <property name="id" value="6"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="598" x="546.561" y="721.667" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="25"/>
+    <property name="TileRefY" value="33"/>
+    <property name="id" value="7"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="599" x="586.743" y="741.364" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="27"/>
+    <property name="TileRefY" value="34"/>
+    <property name="id" value="8"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="600" x="620.425" y="766.167" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="28"/>
+    <property name="TileRefY" value="35"/>
+    <property name="id" value="9"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="601" x="655.925" y="795.273" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="30"/>
+    <property name="TileRefY" value="37"/>
+    <property name="id" value="10"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="602" x="711.091" y="808.167" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="32"/>
+    <property name="TileRefY" value="37"/>
+    <property name="id" value="11"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="603" x="760.258" y="800.94" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="34"/>
+    <property name="TileRefY" value="37"/>
+    <property name="id" value="12"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="604" x="795.652" y="772.878" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="36"/>
+    <property name="TileRefY" value="35"/>
+    <property name="id" value="13"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="605" x="815.182" y="725.833" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="37"/>
+    <property name="TileRefY" value="33"/>
+    <property name="id" value="14"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="606" x="820.228" y="678.727" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="37"/>
+    <property name="TileRefY" value="31"/>
+    <property name="id" value="15"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="607" x="814.137" y="627.242" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="37"/>
+    <property name="TileRefY" value="29"/>
+    <property name="id" value="16"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="608" x="798.606" y="577.924" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="36"/>
+    <property name="TileRefY" value="36"/>
+    <property name="id" value="17"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="609" x="763.683" y="528.788" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="34"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="18"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="610" x="714.046" y="512.788" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="32"/>
+    <property name="TileRefY" value="23"/>
+    <property name="id" value="19"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="611" x="669.697" y="516.288" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="30"/>
+    <property name="TileRefY" value="23"/>
+    <property name="id" value="20"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="612" x="622.03" y="500.015" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="28"/>
+    <property name="TileRefY" value="22"/>
+    <property name="id" value="21"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="613" x="587.803" y="441.697" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="26"/>
+    <property name="TileRefY" value="20"/>
+    <property name="id" value="22"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="614" x="592.258" y="389.606" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="27"/>
+    <property name="TileRefY" value="17"/>
+    <property name="id" value="23"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="615" x="616.879" y="347.834" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="28"/>
+    <property name="TileRefY" value="16"/>
+    <property name="id" value="24"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="616" x="659.925" y="337.394" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="30"/>
+    <property name="TileRefY" value="15"/>
+    <property name="id" value="25"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="617" x="710.758" y="339.53" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="32"/>
+    <property name="TileRefY" value="15"/>
+    <property name="id" value="26"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="618" x="759.883" y="321.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="35"/>
+    <property name="TileRefY" value="14"/>
+    <property name="id" value="27"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="619" x="781.549" y="273.541" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="36"/>
+    <property name="TileRefY" value="12"/>
+    <property name="id" value="28"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="620" x="741.716" y="213.375" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="34"/>
+    <property name="TileRefY" value="10"/>
+    <property name="id" value="29"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="621" x="686.049" y="187.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="31"/>
+    <property name="TileRefY" value="8"/>
+    <property name="id" value="30"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="622" x="631.549" y="181.541" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="29"/>
+    <property name="TileRefY" value="8"/>
+    <property name="id" value="31"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="623" x="575.716" y="155.375" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="26"/>
+    <property name="TileRefY" value="7"/>
+    <property name="id" value="32"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="624" x="534.299" y="106.791" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="24"/>
+    <property name="TileRefY" value="6"/>
+    <property name="id" value="33"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="625" x="486.716" y="73.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="22"/>
+    <property name="TileRefY" value="3"/>
+    <property name="id" value="34"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="626" x="441.216" y="62.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="20"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="35"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="627" x="393.216" y="47.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="18"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="36"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="628" x="343.216" y="45.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="16"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="37"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="629" x="297.716" y="40.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="14"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="38"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="630" x="252.716" y="38.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="12"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="39"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="631" x="208.466" y="39.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="10"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="40"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="632" x="161.466" y="52.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="7"/>
+    <property name="TileRefY" value="2"/>
+    <property name="id" value="41"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="633" x="122.466" y="73.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="6"/>
+    <property name="TileRefY" value="3"/>
+    <property name="id" value="42"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="634" x="96.216" y="115.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="4"/>
+    <property name="TileRefY" value="5"/>
+    <property name="id" value="43"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="635" x="77.466" y="156.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="7"/>
+    <property name="id" value="44"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="636" x="69.466" y="210.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="9"/>
+    <property name="id" value="45"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="637" x="65.466" y="256.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="12"/>
+    <property name="id" value="46"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="638" x="64.466" y="308.958" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="14"/>
+    <property name="id" value="47"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="639" x="74.966" y="357.458" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="3"/>
+    <property name="TileRefY" value="16"/>
+    <property name="id" value="48"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="640" x="101.216" y="400.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="4"/>
+    <property name="TileRefY" value="18"/>
+    <property name="id" value="49"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="641" x="130.716" y="435.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="6"/>
+    <property name="TileRefY" value="20"/>
+    <property name="id" value="50"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="642" x="168.716" y="467.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="8"/>
+    <property name="TileRefY" value="22"/>
+    <property name="id" value="51"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="643" x="206.716" y="498.708" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="9"/>
+    <property name="TileRefY" value="23"/>
+    <property name="id" value="52"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="644" x="251.216" y="514.208" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="11"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="53"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="645" x="295.966" y="526.458" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="13"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="54"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="646" x="343" y="530" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="15"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="55"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="647" x="399" y="523" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="18"/>
+    <property name="TileRefY" value="24"/>
+    <property name="id" value="56"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="648" x="437.5" y="496.5" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="20"/>
+    <property name="TileRefY" value="22"/>
+    <property name="id" value="57"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="649" x="465" y="467" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="21"/>
+    <property name="TileRefY" value="21"/>
+    <property name="id" value="58"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="650" x="483.25" y="427.75" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="22"/>
+    <property name="TileRefY" value="19"/>
+    <property name="id" value="59"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="651" x="484.25" y="374.75" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="22"/>
+    <property name="TileRefY" value="17"/>
+    <property name="id" value="60"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="652" x="465" y="312" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="21"/>
+    <property name="TileRefY" value="14"/>
+    <property name="id" value="61"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="653" x="408.5" y="280.5" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="19"/>
+    <property name="TileRefY" value="13"/>
+    <property name="id" value="62"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object id="654" x="325.25" y="286.75" width="22" height="22">
+   <properties>
+    <property name="PlayerNum" value="2"/>
+    <property name="TileRefX" value="15"/>
+    <property name="TileRefY" value="13"/>
+    <property name="id" value="62"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

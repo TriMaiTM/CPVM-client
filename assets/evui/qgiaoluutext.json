@@ -1,0 +1,111 @@
+{
+	"cpart": 
+	[
+		{
+			"luyentap": "1"
+		}
+	],
+
+	"csubj": 
+	[
+		{
+			"3_nguvan": "3"
+		},
+
+		{
+			"1_kienthucthuongthuc": "1"
+		},
+
+		{
+			"2_toanhoc": "2"
+		},
+
+		{
+			"4_tienganh": "4"
+		},
+
+		{
+			"6_vatly": "6"
+		},
+
+		{
+			"5_hoahoc": "5"
+		}
+	],
+
+	"clv": 
+	[
+		{
+			"v1": "1"
+		}
+	],
+
+	"list": 
+	[
+		{
+			"part": "1",
+			"subj": "1",
+			"lv": "1",
+			"total": 5,
+			"missings": 
+			[
+				
+			]
+		},
+
+		{
+			"part": "1",
+			"subj": "2",
+			"lv": "1",
+			"total": 5,
+			"missings": 
+			[
+				
+			]
+		},
+
+		{
+			"part": "1",
+			"subj": "3",
+			"lv": "1",
+			"total": 5,
+			"missings": 
+			[
+				
+			]
+		},
+
+		{
+			"part": "1",
+			"subj": "4",
+			"lv": "1",
+			"total": 5,
+			"missings": 
+			[
+				
+			]
+		},
+
+		{
+			"part": "1",
+			"subj": "5",
+			"lv": "1",
+			"total": 5,
+			"missings": 
+			[
+				
+			]
+		},
+
+		{
+			"part": "1",
+			"subj": "6",
+			"lv": "1",
+			"total": 5,
+			"missings": 
+			[
+				
+			]
+		}
+	]
+}

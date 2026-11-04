@@ -1,0 +1,1902 @@
+{
+	"gift": {
+		"110": {
+			"itemId": 1050105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.45,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"111": {
+			"itemId": 1060105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.4,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"112": {
+			"itemId": 1070105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"113": {
+			"itemId": 1080105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"114": {
+			"itemId": 1090105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"115": {
+			"itemId": 1110104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"116": {
+			"itemId": 1120104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"117": {
+			"itemId": 1110105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"118": {
+			"itemId": 1120105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"119": {
+			"itemId": 1010404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"10": {
+			"itemId": 1160104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"11": {
+			"itemId": 1160201.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"12": {
+			"itemId": 1160202.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"13": {
+			"itemId": 1160203.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"14": {
+			"itemId": 1160204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"15": {
+			"itemId": 1160402.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"16": {
+			"itemId": 1160403.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"17": {
+			"itemId": 1160404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"18": {
+			"itemId": 1150101.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"19": {
+			"itemId": 1150102.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"120": {
+			"itemId": 1020404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"121": {
+			"itemId": 1030404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"1": {
+			"itemId": 1160105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"122": {
+			"itemId": 1040404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.95,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"2": {
+			"itemId": 1160205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"123": {
+			"itemId": 1050404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.9,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"3": {
+			"itemId": 1160405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"124": {
+			"itemId": 1060404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.85,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"4": {
+			"itemId": 1130105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"125": {
+			"itemId": 1070404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.8,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"5": {
+			"itemId": 1130205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"126": {
+			"itemId": 1080404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.75,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"6": {
+			"itemId": 1130405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"127": {
+			"itemId": 1090404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.6,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"7": {
+			"itemId": 1160101.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"128": {
+			"itemId": 1030405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.55,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"8": {
+			"itemId": 1160102.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"129": {
+			"itemId": 1040405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"9": {
+			"itemId": 1160103.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"20": {
+			"itemId": 1150103.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"21": {
+			"itemId": 1150104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"22": {
+			"itemId": 1150105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"23": {
+			"itemId": 1150201.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"24": {
+			"itemId": 1150202.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"25": {
+			"itemId": 1150203.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"26": {
+			"itemId": 1150204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"27": {
+			"itemId": 1150205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"28": {
+			"itemId": 1150401.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"29": {
+			"itemId": 1150402.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"130": {
+			"itemId": 1050405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.45,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"131": {
+			"itemId": 1060405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.4,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"132": {
+			"itemId": 1070405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"133": {
+			"itemId": 1080405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"134": {
+			"itemId": 1090405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"135": {
+			"itemId": 1110404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"136": {
+			"itemId": 1120404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"137": {
+			"itemId": 1110405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"138": {
+			"itemId": 1120405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"139": {
+			"itemId": 5.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"30": {
+			"itemId": 1150403.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"31": {
+			"itemId": 1150404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"32": {
+			"itemId": 1150405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"33": {
+			"itemId": 15.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"34": {
+			"itemId": 18.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"35": {
+			"itemId": 17.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"36": {
+			"itemId": 16.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"37": {
+			"itemId": 1170101.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"38": {
+			"itemId": 1170102.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"39": {
+			"itemId": 1170103.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"140": {
+			"itemId": 9.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"141": {
+			"itemId": 3.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"142": {
+			"itemId": 12.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 1.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"143": {
+			"itemId": 2.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 1.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"144": {
+			"itemId": 7.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"145": {
+			"itemId": 4.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"146": {
+			"itemId": 14.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"147": {
+			"itemId": 5.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 1.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"148": {
+			"itemId": 7.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"149": {
+			"itemId": 9.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"40": {
+			"itemId": 1170104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"41": {
+			"itemId": 1170105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"42": {
+			"itemId": 1170201.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"43": {
+			"itemId": 1170202.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"44": {
+			"itemId": 1170203.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"45": {
+			"itemId": 1170204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"46": {
+			"itemId": 1170205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"47": {
+			"itemId": 1170401.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"48": {
+			"itemId": 1170402.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"49": {
+			"itemId": 1170403.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"150": {
+			"itemId": 10.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 3.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"151": {
+			"itemId": 11.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"152": {
+			"itemId": 1.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"153": {
+			"itemId": 13.0,
+			"itemNum": 1.0,
+			"itemType": 5.0,
+			"itemLv": 0.0,
+			"rate": 2.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"154": {
+			"itemId": 3.0,
+			"itemNum": 50.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 5.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"155": {
+			"itemId": 3.0,
+			"itemNum": 100.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 4.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"156": {
+			"itemId": 3.0,
+			"itemNum": 150.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 3.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"157": {
+			"itemId": 3.0,
+			"itemNum": 800.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"158": {
+			"itemId": 1.0,
+			"itemNum": 99.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.5,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"159": {
+			"itemId": 1.0,
+			"itemNum": 2999.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"50": {
+			"itemId": 1170404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"51": {
+			"itemId": 1170405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"52": {
+			"itemId": 1190101.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"53": {
+			"itemId": 1190102.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"54": {
+			"itemId": 1190103.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"55": {
+			"itemId": 1190104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"56": {
+			"itemId": 1190105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"57": {
+			"itemId": 1190201.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"58": {
+			"itemId": 1190202.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"59": {
+			"itemId": 1190203.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"160": {
+			"itemId": 0.0,
+			"itemNum": 100000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"161": {
+			"itemId": 0.0,
+			"itemNum": 200000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.8,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"162": {
+			"itemId": 0.0,
+			"itemNum": 300000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.5,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"163": {
+			"itemId": 0.0,
+			"itemNum": 1000000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.4,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"164": {
+			"itemId": 0.0,
+			"itemNum": 2000000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"165": {
+			"itemId": 0.0,
+			"itemNum": 1.0E7,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"166": {
+			"itemId": 3010304.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"167": {
+			"itemId": 3010305.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"168": {
+			"itemId": 3030301.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"169": {
+			"itemId": 3030302.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"60": {
+			"itemId": 1190204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"61": {
+			"itemId": 1190205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"62": {
+			"itemId": 1190401.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"63": {
+			"itemId": 1190402.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"64": {
+			"itemId": 1190403.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"65": {
+			"itemId": 1190404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.02,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"66": {
+			"itemId": 1190405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.01,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"67": {
+			"itemId": 1130101.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"68": {
+			"itemId": 1130102.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"69": {
+			"itemId": 1130103.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"170": {
+			"itemId": 3030303.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"171": {
+			"itemId": 3030304.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"172": {
+			"itemId": 3030305.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"173": {
+			"itemId": 16.0,
+			"itemNum": 200.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 1.9,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"174": {
+			"itemId": 16.0,
+			"itemNum": 1000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"175": {
+			"itemId": 16.0,
+			"itemNum": 3000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.5,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"176": {
+			"itemId": 16.0,
+			"itemNum": 8000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.1,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"177": {
+			"itemId": 16.0,
+			"itemNum": 12000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"178": {
+			"itemId": 20.0,
+			"itemNum": 50.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 3.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"179": {
+			"itemId": 20.0,
+			"itemNum": 100.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"70": {
+			"itemId": 1130104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"71": {
+			"itemId": 1130201.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"72": {
+			"itemId": 1130202.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"73": {
+			"itemId": 1130203.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"74": {
+			"itemId": 1130204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"75": {
+			"itemId": 1130401.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"76": {
+			"itemId": 1130402.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"77": {
+			"itemId": 1130403.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"78": {
+			"itemId": 1130404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"79": {
+			"itemId": 1010204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.1,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"180": {
+			"itemId": 20.0,
+			"itemNum": 200.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"181": {
+			"itemId": 20.0,
+			"itemNum": 300.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.8,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"182": {
+			"itemId": 20.0,
+			"itemNum": 500.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.6,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"183": {
+			"itemId": 20.0,
+			"itemNum": 600.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.5,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"184": {
+			"itemId": 20.0,
+			"itemNum": 2000.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"185": {
+			"itemId": 11.0,
+			"itemNum": 40.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 2.76,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"186": {
+			"itemId": 11.0,
+			"itemNum": 80.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"187": {
+			"itemId": 11.0,
+			"itemNum": 200.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 1.0,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"188": {
+			"itemId": 4.0,
+			"itemNum": 20.0,
+			"itemType": 0.0,
+			"itemLv": 0.0,
+			"rate": 0.6,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"189": {
+			"itemId": 1210101.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"80": {
+			"itemId": 1020204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.05,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"81": {
+			"itemId": 1030204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"82": {
+			"itemId": 1040204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.95,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"83": {
+			"itemId": 1050204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.9,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"84": {
+			"itemId": 1060204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.85,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"85": {
+			"itemId": 1070204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.8,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"86": {
+			"itemId": 1080204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.75,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"87": {
+			"itemId": 1090204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.6,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"88": {
+			"itemId": 1030205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.55,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"89": {
+			"itemId": 1040205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"190": {
+			"itemId": 1210102.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"191": {
+			"itemId": 1210103.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"192": {
+			"itemId": 1210104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"193": {
+			"itemId": 1210105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"194": {
+			"itemId": 1210201.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"195": {
+			"itemId": 1210202.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"196": {
+			"itemId": 1210203.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"197": {
+			"itemId": 1210204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"198": {
+			"itemId": 1210205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"199": {
+			"itemId": 1210401.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"90": {
+			"itemId": 1050205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.45,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"91": {
+			"itemId": 1060205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.4,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"92": {
+			"itemId": 1070205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.3,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"93": {
+			"itemId": 1080205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"94": {
+			"itemId": 1090205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"95": {
+			"itemId": 1110204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"96": {
+			"itemId": 1120204.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"97": {
+			"itemId": 1110205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"98": {
+			"itemId": 1120205.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.1,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"99": {
+			"itemId": 1010104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"200": {
+			"itemId": 1210402.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.2,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"201": {
+			"itemId": 1210403.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"202": {
+			"itemId": 1210404.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"203": {
+			"itemId": 1210405.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.0,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"204": {
+			"itemId": 25.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"205": {
+			"itemId": 26.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"206": {
+			"itemId": 27.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"207": {
+			"itemId": 28.0,
+			"itemNum": 1.0,
+			"itemType": 10.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 1.0
+		},
+		"100": {
+			"itemId": 1020104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.3,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"101": {
+			"itemId": 1030104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 1.0,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"102": {
+			"itemId": 1040104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.95,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"103": {
+			"itemId": 1050104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.9,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"104": {
+			"itemId": 1060104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.85,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"105": {
+			"itemId": 1070104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.8,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"106": {
+			"itemId": 1080104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.75,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"107": {
+			"itemId": 1090104.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.6,
+			"show": 0.0,
+			"hot": 0.0
+		},
+		"108": {
+			"itemId": 1030105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.55,
+			"show": 1.0,
+			"hot": 0.0
+		},
+		"109": {
+			"itemId": 1040105.0,
+			"itemNum": 1.0,
+			"itemType": 2.0,
+			"itemLv": 1.0,
+			"rate": 0.5,
+			"show": 1.0,
+			"hot": 0.0
+		}
+	},
+	"constans": {
+		"1": {
+			"val": 3.0,
+			"key": "key_per_day"
+		},
+		"2": {
+			"val": 480.0,
+			"key": "time_count_down"
+		},
+		"3": {
+			"val": 20.0,
+			"key": "price_key_coin"
+		},
+		"4": {
+			"val": 10.0,
+			"key": "key_vip"
+		},
+		"5": {
+			"val": 8.0,
+			"key": "num_box"
+		},
+		"6": {
+			"val": ["4/3/2016",
+			"13/3/2016"],
+			"key": "valid_time"
+		},
+		"7": {
+			"val": 1.0,
+			"key": "limit_time"
+		},
+		"8": {
+			"val": 10.0,
+			"key": "discount_price"
+		}
+	}
+}

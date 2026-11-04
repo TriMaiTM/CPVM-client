@@ -1,0 +1,50 @@
+{
+	"card" : {
+		"3" : {
+			"num" : 1.0,
+			"level" : 1.0,
+			"itemType" : 5.0,
+			"itemId" : 4.0
+		},
+		"2" : {
+			"num" : 1.0,
+			"level" : 1.0,
+			"itemType" : 5.0,
+			"itemId" : 6.0
+		},
+		"1" : {
+			"num" : 1.0,
+			"level" : 1.0,
+			"itemType" : 5.0,
+			"itemId" : 5.0
+		},
+		"0" : {
+			"num" : 1.0,
+			"level" : 1.0,
+			"itemType" : 5.0,
+			"itemId" : 2.0
+		}
+	},
+	"config" : {
+		"3" : {
+			"val" : 3.0,
+			"key" : "after_quick"
+		},
+		"2" : {
+			"val" : 5.0,
+			"key" : "after_create"
+		},
+		"1" : {
+			"val" : 5.0,
+			"key" : "max_win"
+		},
+		"0" : {
+			"val" : 10.0,
+			"key" : "max_total_play"
+		},
+		"4" : {
+			"val" : 3.0,
+			"key" : "channel_max"
+		}
+	}
+}

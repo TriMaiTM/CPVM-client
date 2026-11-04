@@ -1,0 +1,34 @@
+{
+	"strength": {
+		"0": {
+			"taxRate": 0.0,
+			"destroy": 0.0,
+			"taxRatio": 1.0
+		},
+		"7001": {
+			"taxRate": 45.0,
+			"destroy": 2.0,
+			"taxRatio": 4.0
+		},
+		"3501": {
+			"taxRate": 40.0,
+			"destroy": 1.0,
+			"taxRatio": 3.0
+		},
+		"2001": {
+			"taxRate": 35.0,
+			"destroy": 0.0,
+			"taxRatio": 2.0
+		},
+		"12001": {
+			"taxRate": 70.0,
+			"destroy": 5.0,
+			"taxRatio": 6.0
+		},
+		"10001": {
+			"taxRate": 50.0,
+			"destroy": 3.0,
+			"taxRatio": 5.0
+		}
+	}
+}

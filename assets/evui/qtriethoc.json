@@ -1,0 +1,40 @@
+{
+	"part" : [{
+			"1" : "thithu"
+		}, {
+			"2" : "thithat"
+		}
+	],
+	"level" : [{
+			"1" : "chuong1"
+		}, {
+			"2" : "chuong2"
+		}, {
+			"3" : "chuong3"
+		}, {
+			"4" : "chuong4"
+		}
+	],
+	"list" : {
+		"1" : {
+			"part" : 1,
+			"sId" : 0,
+			"lv" : 1,
+			"name" : "",
+			"total" : 0,
+			"totalT" : 60,
+			"missings" : [],
+			"missingsT" : []
+		},
+		"2" : {
+			"part" : 2,
+			"sId" : 0,
+			"lv" : 1,
+			"name" : "",
+			"total" : 0,
+			"totalT" : 92,
+			"missings" : [],
+			"missingsT" : []
+		}
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"list" : {
+		"1" : {
+			"lid" : 1,
+			"name" : "1_vanhoa_xahoi_lichsu",
+			"total_n" : 260,
+			"total_h" : 560,
+			"total_e" : 647,
+			"totalT_n" : 0,
+			"totalT_h" : 0,
+			"totalT_e" : 0
+		},
+		"2" : {
+			"lid" : 2,
+			"name" : "2_amnhac_dienanh_thethao",
+			"total_n" : 240,
+			"total_h" : 550,
+			"total_e" : 590,
+			"totalT_n" : 0,
+			"totalT_h" : 0,
+			"totalT_e" : 0
+		},
+		"3" : {
+			"lid" : 3,
+			"name" : "3_vanhoc_nghethuat",
+			"total_n" : 175,
+			"total_h" : 470,
+			"total_e" : 615,
+			"totalT_n" : 0,
+			"totalT_h" : 0,
+			"totalT_e" : 0
+		},
+		"4" : {
+			"lid" : 4,
+			"name" : "4_khoahoc_doisong",
+			"total_n" : 362,
+			"total_h" : 745,
+			"total_e" : 810,
+			"totalT_n" : 0,
+			"totalT_h" : 0,
+			"totalT_e" : 0
+		},
+		"5" : {
+			"lid" : 5,
+			"name" : "5_ngoaingu",
+			"total_n" : 120,
+			"total_h" : 70,
+			"total_e" : 120,
+			"totalT_n" : 0,
+			"totalT_h" : 0,
+			"totalT_e" : 0
+		},
+		"6" : {
+			"lid" : 6,
+			"name" : "6_cauhoitet",
+			"total_n" : 69,
+			"total_h" : 1575,
+			"total_e" : 362,
+			"totalT_n" : 81,
+			"totalT_h" : 0,
+			"totalT_e" : 0
+		}
+	}
+}
